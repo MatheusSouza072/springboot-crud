@@ -23,7 +23,7 @@ public class EstadoResource {
 	
 	@Autowired
 	private EstadoService service;
-
+	
 	@Autowired
 	private CidadeService cidadeService;
 	
